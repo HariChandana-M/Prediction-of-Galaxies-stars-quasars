@@ -1,1 +1,2 @@
-# Prediction-of-Galaxies-stars-quasars
+# Prediction-of-Galaxies-Stars-Quasars
+This project leverages machine learning techniques to classify celestial objects (galaxies, quasars, and stars) from the Sloan Digital Sky Survey (SDSS) dataset. Various models such as Decision Trees, Logistic Regression, K-Nearest Neighbors (KNN), and Support Vector Machines (SVM) are trained and evaluated to identify patterns in photometric and spectroscopic features of celestial bodies. Key steps include data cleaning, feature scaling, exploratory analysis, and model training. Performance metrics such as classification reports, accuracy scores, and confusion matrices provide insights into model effectiveness for astronomical data classification tasks.
